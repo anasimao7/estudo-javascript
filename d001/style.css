@@ -1,0 +1,44 @@
+body{
+    background-color: cornsilk;
+    font: normal 15pt Trebuchet MS;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: rgb(219, 198, 103);
+    border-radius: 50px;
+    padding: 50px;
+    width: 200px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    text-align: center;
+}
+
+input#b1{
+    border-radius: 15px;
+    padding: 10px;
+    width: 120px;
+    font: normal 15pt Trebuchet MS;
+}
+
+input#b2{
+    border-radius: 15px;
+    padding: 10px;
+    width: 150px;
+    font: normal 15pt Trebuchet MS;
+}
+
+input#b3{
+    border-radius: 15px;
+    padding: 10px;
+    width: 120px;
+    font: normal 15pt Trebuchet MS;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
